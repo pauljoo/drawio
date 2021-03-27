@@ -1,3 +1,5 @@
+mvn install:install-file -DgroupId=drawio -DartifactId=gae-stub -Dversion=1.0.3 -Dpackaging=jar -Dfile=gae-stub-1.0.3.jar
+
 [![Build Status](https://travis-ci.com/jgraph/drawio.svg?branch=master)](https://travis-ci.com/jgraph/drawio)
 
 About
